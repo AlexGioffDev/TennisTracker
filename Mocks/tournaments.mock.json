@@ -1,0 +1,436 @@
+{
+   "tournaments":[
+      {
+         "ID":"416",
+         "Location":"Rome, Italy",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.05.10",
+         "Total Prize Money":"€8,637,966",
+         "Tournament Name":"Internazionali BNL d'Italia",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"322",
+         "Location":"Geneva, Switzerland",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.05.21",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Gonet Geneva Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"7694",
+         "Location":"Lyon, France",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.05.21",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Open Parc Auvergne-Rhone-Alpes Lyon",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"321",
+         "Location":"Stuttgart, Germany",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.12",
+         "Total Prize Money":"€795,730",
+         "Tournament Name":"BOSS OPEN",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"440",
+         "Location":"'s-Hertogenbosch, Netherlands",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.12",
+         "Total Prize Money":"€750,950",
+         "Tournament Name":"Libema Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"311",
+         "Location":"London, Great Britain",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.19",
+         "Total Prize Money":"€2,345,130",
+         "Tournament Name":"Cinch Championships",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"500",
+         "Location":"Halle, Germany",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.19",
+         "Total Prize Money":"€2,345,130",
+         "Tournament Name":"Terra Wortmann Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"8994",
+         "Location":"Mallorca, Spain",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.25",
+         "Total Prize Money":"€984,805",
+         "Tournament Name":"Mallorca Championships",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"741",
+         "Location":"Eastbourne, Great Britain",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.06.26",
+         "Total Prize Money":"€791,545",
+         "Tournament Name":"Rothesay International",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"315",
+         "Location":"Newport, United States",
+         "Surface":"Outdoor Grass",
+         "Timestamp":"2023.07.17",
+         "Total Prize Money":"$718,245",
+         "Tournament Name":"Infosys Hall of Fame Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"314",
+         "Location":"Gstaad, Switzerland",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.07.17",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"EFG Swiss Open Gstaad",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"316",
+         "Location":"Bastad, Sweden",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.07.17",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Nordea Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"414",
+         "Location":"Hamburg, Germany",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.07.24",
+         "Total Prize Money":"€1,981,470",
+         "Tournament Name":"Hamburg European Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"6116",
+         "Location":"Atlanta, United States",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.07.24",
+         "Total Prize Money":"$822,715",
+         "Tournament Name":"Atlanta Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"439",
+         "Location":"Umag, Croatia",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.07.24",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Plava Laguna Croatia Open Umag",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"418",
+         "Location":"Washington, United States",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.07.31",
+         "Total Prize Money":"$2,178,980",
+         "Tournament Name":"Citi Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"7480",
+         "Location":"Los Cabos, Mexico",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.07.31",
+         "Total Prize Money":"$946,975",
+         "Tournament Name":"Mifel Tennis Open by Telcel Oppo",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"319",
+         "Location":"Kitzbuhel, Austria",
+         "Surface":"Outdoor Clay",
+         "Timestamp":"2023.07.31",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Generali Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"421",
+         "Location":"Toronto, Canada",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.08.07",
+         "Total Prize Money":"$7,622,925",
+         "Tournament Name":"National Bank Open Presented by Rogers",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"422",
+         "Location":"Cincinnati, United States",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.08.13",
+         "Total Prize Money":"$7,665,215",
+         "Tournament Name":"Western & Southern Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"6242",
+         "Location":"Winston-Salem, United States",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.08.20",
+         "Total Prize Money":"$850,680",
+         "Tournament Name":"Winston-Salem Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"7581",
+         "Location":"Chengdu, China",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.09.20",
+         "Total Prize Money":"$1,261,555",
+         "Tournament Name":"Chengdu Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"9164",
+         "Location":"Zhuhai, China",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.09.20",
+         "Total Prize Money":"$1,057,295",
+         "Tournament Name":"Zhuhai Championships",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"9210",
+         "Location":"Vancouver, Canada",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.09.22",
+         "Total Prize Money":"-",
+         "Tournament Name":"Laver Cup",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"9410",
+         "Location":"Astana, Kazakhstan",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.09.27",
+         "Total Prize Money":"$1,093,360",
+         "Tournament Name":"Astana Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"747",
+         "Location":"Beijing, China",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.09.28",
+         "Total Prize Money":"$3,798,915",
+         "Tournament Name":"China Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"5014",
+         "Location":"Shanghai, China",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.10.04",
+         "Total Prize Money":"$10,046,270",
+         "Tournament Name":"Rolex Shanghai Masters",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"329",
+         "Location":"Tokyo, Japan",
+         "Surface":"Outdoor Hard",
+         "Timestamp":"2023.10.16",
+         "Total Prize Money":"$2,178,980",
+         "Tournament Name":"Kinoshita Group Japan Open Tennis Championships",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"7485",
+         "Location":"Antwerp, Belgium",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.10.16",
+         "Total Prize Money":"€750,950",
+         "Tournament Name":"European Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"429",
+         "Location":"Stockholm, Sweden",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.10.16",
+         "Total Prize Money":"€750,950",
+         "Tournament Name":"Stockholm Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"337",
+         "Location":"Vienna, Austria",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.10.23",
+         "Total Prize Money":"€2,559,790",
+         "Tournament Name":"Erste Bank Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"328",
+         "Location":"Basel, Switzerland",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.10.23",
+         "Total Prize Money":"€2,345,955",
+         "Tournament Name":"Swiss Indoors Basel",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"352",
+         "Location":"Paris, France",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.10.30",
+         "Total Prize Money":"€6,748,815",
+         "Tournament Name":"Rolex Paris Masters",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"341",
+         "Location":"Metz, France",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.11.05",
+         "Total Prize Money":"€630,705",
+         "Tournament Name":"Moselle Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"4138",
+         "Location":"Tel Aviv, Israel",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.11.05",
+         "Total Prize Money":"-",
+         "Tournament Name":"Tel Aviv Watergen Open",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      },
+      {
+         "ID":"605",
+         "Location":"Turin, Italy",
+         "Surface":"Indoor Hard",
+         "Timestamp":"2023.11.12",
+         "Total Prize Money":"-",
+         "Tournament Name":"Nitto ATP Finals",
+         "Winners":{
+            "doubles":"not defined",
+            "singles":"not defined"
+         }
+      }
+   ]
+}
