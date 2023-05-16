@@ -3,7 +3,14 @@ import { TournamentApiResponse } from '@/Models/TournamentI';
 
 export async function getNews(): Promise<NewsApiResponse>{
   const apiKey = process.env.NEWS_API
-  const url = `https://newsapi.org/v2/everything?q=tennis&pageSize=100&apiKey=${apiKey}&sources=bbc-sport,espn&sortBy=relevancy&searchIn=description,content`
+  const category = 'sports';
+  const query = 'tennis OR ATP OR WTA OR "tennis tournaments"';
+  const language = 'en';
+  const pageSize = 100;
+  
+  const url = `https://newsapi.org/v2/everything?apiKey=${apiKey}&q=${encodeURIComponent(
+    query
+  )}&language=${language}&pageSize=${pageSize}`;
 
   try {
     const response = await fetch(url);
