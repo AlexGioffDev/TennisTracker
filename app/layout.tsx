@@ -1,4 +1,5 @@
 import './globals.css'
+import Header from '@/Components/Header/Header'
 
 export const metadata = {
   title: 'Create Next App',
@@ -12,7 +13,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body >{children}</body>
+      <body >
+        <div className='w-screen h-screen grid grid-cols-12 gap-0'>
+          <Header />
+          {children}
+        </div>
+      </body>
     </html>
   )
 }
